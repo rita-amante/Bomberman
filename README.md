@@ -1,4 +1,5 @@
-# iia-ia-bomberman
+# Inteligência Artificial 
+
 Bomberman clone for AI teaching
 
 ![Demo](https://github.com/dgomes/iia-ia-bomberman/raw/master/data/DemoBomberman.gif)
